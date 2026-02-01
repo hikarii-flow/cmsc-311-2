@@ -176,7 +176,7 @@ Using a caching system could help store frequent query results, which would lowe
 
 ## 9. References
 
-Bansal, S. (2021). Netflix Movies and TV Shows. <Www.kaggle.com>. <https://www.kaggle.com/datasets/shivamb/netflix-shows>
+Bansal, S. (2021). Netflix Movies and TV Shows. Kaggle.com. <https://www.kaggle.com/datasets/shivamb/netflix-shows>
 
 Chase, H. (2023). _LangChain: Building applications with LLMs through composability_. <https://python.langchain.com/>
 
