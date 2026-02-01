@@ -1,0 +1,20 @@
+# Python 3.9+ recommended
+
+# Core LangChain framework
+langchain-core>=0.3.0
+langchain-anthropic>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-chroma>=0.2.0
+langchain-huggingface>=1.0.0
+
+# Anthropic Claude API
+anthropic>=0.40.0
+
+# Vector store - ChromaDB
+chromadb>=0.5.0
+
+# Embeddings - HuggingFace
+sentence-transformers>=2.2.0
+
+# Data processing
+pandas>=2.0.0
